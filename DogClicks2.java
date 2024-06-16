@@ -9,7 +9,7 @@ public class DogClicks2 {
 
     private static final int DOG_ID = 701;
 
-    private static final int NUMBER_OF_REQUESTS = 4200;
+    private static final int NUMBER_OF_REQUESTS = 5;
     private static final int DELAY_BETWEEN_REQUESTS_IN_SECONDS = 1;
 
     public static void main(String[] args) {
